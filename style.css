@@ -1,0 +1,29 @@
+.negro{
+    color:white;
+    background-color: black;
+}
+
+.blanco{
+    color:black;
+    background-color: white;
+}
+
+.small-letras{
+    font-size: 8px;
+}
+
+.medium-letras{
+    font-size: 12px;
+}
+
+.large-letras{
+    font-size: 16px;
+}
+
+.error{
+    border: 1px solid red;
+}
+
+.noerror{
+    border: 1px solid black;
+}
